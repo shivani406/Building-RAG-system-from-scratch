@@ -1,0 +1,10 @@
+.streamlit/
+
+# Virtual environments
+rag/
+venv/
+.env/
+
+# Python cache
+__pycache__/
+*.pyc

@@ -1,0 +1,7 @@
+sentence-transformers
+streamlit
+langchain==0.1.16
+pymongo
+langchain-mongodb
+langchain-google-genai
+python-dotenv
