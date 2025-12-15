@@ -2,8 +2,8 @@
 RAG AI Chatbot using MongoDB, Gemini, Langchain and Streamlit
 
 ## Tech Stack used
-MongoDB - to store the vector embeddings
-Gemini - Main LLM 
-Streamlit - To host my Chatbot
-LangChain - Build RAG Pipeline
+MongoDB - to store the vector embeddings\n
+Gemini - Main LLM \n
+Streamlit - To host my Chatbot \n
+LangChain - Build RAG Pipeline 
 
